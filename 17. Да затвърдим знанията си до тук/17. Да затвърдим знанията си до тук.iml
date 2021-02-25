@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/99bottles" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AtoZ" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CapitalizeString" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CharFrequency" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Div3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DropSong" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FibonacciSeries" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MultNotPow" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MultiplicationTable" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PrimeNumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/RemoveWhitespaces" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SumNotMult" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ToBinary" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Боби" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ракийчице" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

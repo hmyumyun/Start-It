@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/EnumOurCompany" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TypeOf -1 357 674" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TypeOf -250" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TypeOf -9 000 000 000 000 000 000" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TypeOf 1.61803" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TypeOf 10 000 000 000 000 000 000" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TypeOf 250" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TypeOf 4 589 498" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TypeOfVars" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
